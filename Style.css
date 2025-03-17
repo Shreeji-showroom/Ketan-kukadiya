@@ -145,6 +145,7 @@ h2 {
 
 
 .contact-container {
+    align-content: center;
     background: white;
     max-width: 600px;
     margin: 50px auto;
@@ -172,7 +173,7 @@ h2 {
     gap: 15px;
     font-size: 18px;
     color: #555;
-    justify-content: center;
+    justify-content: left;
 }
 
 /* Uniform Icon Sizes */
