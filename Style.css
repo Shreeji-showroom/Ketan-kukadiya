@@ -26,11 +26,12 @@ nav {
 /* Navigation Links */
 .nav-links {
     font-size: 5px;
+    font-weight: bold;
     list-style: none;
     display: flex;
     gap: 18px; /* Spacing between links */
     position: absolute;
-    left: 30%;
+    left: 35%;
 }
 
 .nav-links li {
